@@ -11,7 +11,7 @@
 ## Chipyard - Mixed-Signal Fork
 This fork is intended for use alongside the "Mixed-signal verification with Chisel" tutorial. It contains the latest Chipyard fork as of November 2022 as well as an additional generator for a PWM DAC peripheral.
 
-The PWM DAC Peripheral can be found linked as a submodule in `generators/pwm-dac`
+The PWM DAC Peripheral can be found linked as a submodule in `generators/pwm-dac` and the corresponding repository is found on Github: https://github.com/daniellovell/pwm-dac-peripheral 
 
 ## Getting Started
 
